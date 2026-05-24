@@ -89,8 +89,6 @@ Full methodology detail: [`methodology/`](methodology/)
 | Slack (Paid Trial) | Platform under investigation |
 | SQLCipher 4 | Encryption layer blocking standard forensic parsing |
 
-## References
-
 ---
 
 ## Implications
