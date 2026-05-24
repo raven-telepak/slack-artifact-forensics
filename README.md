@@ -85,9 +85,11 @@ Full methodology detail: [`methodology/`](methodology/)
 | Tool | Role |
 |---|---|
 | FTK Imager 8.2 | Forensic disk imaging; iTunes backup acquisition |
-| SlackDump | Open-source API-based Slack extraction; JSON output |
+| [SlackDump](https://github.com/rusq/slackdump) | Open-source API-based Slack extraction; JSON output |
 | Slack (Paid Trial) | Platform under investigation |
 | SQLCipher 4 | Encryption layer blocking standard forensic parsing |
+
+## References
 
 ---
 
